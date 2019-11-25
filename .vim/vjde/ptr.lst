@@ -1,4 +1,0 @@
-auto_ptr
-std::auto_ptr
-shared_ptr
-boost::shared_ptr
